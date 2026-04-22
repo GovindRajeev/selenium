@@ -8,5 +8,3 @@ This project is an automated testing application developed using Selenium WebDri
 1.Using normal Selenium methods()
 
 2.Using TestNG framework
-
-3.Using Maven project structure for dependency management and test execution.
