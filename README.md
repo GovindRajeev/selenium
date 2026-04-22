@@ -6,5 +6,7 @@ This project is an automated testing application developed using Selenium WebDri
 ##The project contains three versions of AbhiBus testing implementation:
 
 1.Using normal Selenium methods()
+
 2.Using TestNG framework
+
 3.Using Maven project structure for dependency management and test execution.
