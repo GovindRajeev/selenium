@@ -1,0 +1,49 @@
+# Abhibus Test Automation Framework
+
+Automation testing framework for the Abhibus web application using Selenium WebDriver, Java, TestNG, and Page Factory design pattern.
+
+## Overview
+
+This project automates the core bus booking workflow of the Abhibus web application. The framework is designed using the Page Factory approach to improve maintainability, reusability, and scalability of automation test scripts.
+
+The project focuses on validating important booking functionalities including homepage navigation, bus selection, and passenger information workflows.
+
+---
+
+## Tech Stack
+
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- Page Factory Design Pattern
+
+---
+
+## Features
+
+✔ Automated Bus Booking Workflow  
+✔ Functional UI Testing  
+✔ Page Factory Framework Design  
+✔ TestNG Execution & Reporting  
+✔ Reusable Page Classes  
+✔ Structured Automation Framework  
+
+---
+
+## Project Structure
+
+```bash
+abhibus-testng/
+│
+├── src/com/abhibus
+│   ├── pagefactory
+│   │   ├── HomePage.java
+│   │   ├── BusSelection.java
+│   │   ├── PassengerInfo.java
+│   │
+│   ├── test
+│       ├── Tc_01_BusBooking.java
+│
+├── test-output
+├── runTestNgAbhibusBooking.xml
